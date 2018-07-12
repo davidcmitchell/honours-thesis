@@ -1,0 +1,14 @@
+echo “ipatrick_planar_3reg_04”
+./gg < ipatrick_planar_3reg_04 | ./cf | sort | uniq | wc -l
+
+echo “ipatrick_planar_3reg_08”
+./gg < ipatrick_planar_3reg_08 | ./cf | sort | uniq | wc -l
+
+echo “ipatrick_planar_3reg_12”
+./gg < ipatrick_planar_3reg_12 | ./cf | sort | uniq | wc -l
+
+echo “ipatrick_planar_3reg_16”
+./gg < ipatrick_planar_3reg_16 | ./cf | sort | uniq | wc -l
+
+echo “ipatrick_planar_3reg_20”
+./gg < ipatrick_planar_3reg_20 | ./cf | sort | uniq | wc -l

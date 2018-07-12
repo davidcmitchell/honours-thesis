@@ -1,0 +1,15 @@
+echo “ipatrick_planar_3reg_04”
+./gg < ipatrick_planar_3reg_04 | wc -l
+
+echo “ipatrick_planar_3reg_08”
+./gg < ipatrick_planar_3reg_08 | wc -l
+
+echo “ipatrick_planar_3reg_12”
+./gg < ipatrick_planar_3reg_12 | wc -l
+
+echo “ipatrick_planar_3reg_16”
+./gg < ipatrick_planar_3reg_16 | wc -l
+
+echo “ipatrick_planar_3reg_20”
+./gg < ipatrick_planar_3reg_20 | wc -l
+
